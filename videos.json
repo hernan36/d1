@@ -1,1 +1,6 @@
-
+{
+  "vid1": {
+    "thumbnail": "thumbs/vid1.jpeg",
+    "redirect": "https://privadoplay.online/watch.html?v=demo"
+  }
+}
