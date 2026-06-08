@@ -2,5 +2,9 @@
   "vid1": {
     "thumbnail": "thumbs/vid1.jpeg",
     "redirect": "https://privadoplay.online/watch.html?v=demo"
+  },
+   "vid2": {
+    "thumbnail": "thumbs/vid2.jpeg",
+    "redirect": "https://privadoplay.online/watch.html?v=demo"
   }
 }
