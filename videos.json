@@ -10,5 +10,9 @@
    "goo1": {
     "thumbnail": "thumbs/goo1.jpeg",
     "redirect": "https://lomejordelared.site//watch.html?v=goo1"
+  },
+  "goo2": {
+    "thumbnail": "thumbs/goo2.jpeg",
+    "redirect": "https://lomejordelared.site//watch.html?v=goo2"
   }
 }
